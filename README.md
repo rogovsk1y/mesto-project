@@ -2,4 +2,4 @@
 Описание: Проект о захватывающих местах России;
 Функциональность: адаптивность к разным разрешениям экрана (flex, grid), активные ссылки (hover), формы (form);
 Технологии: CSS, HTML;
-GitHub Pages: ;
+GitHub Pages: https://rogovsk1y.github.io/mesto-project/;
