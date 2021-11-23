@@ -1,3 +1,7 @@
 .popup__item_el_name {
   line-height: 17px;
 }
+
+.popup__item_el_name:focus {
+    outline-color: #ddd;
+}

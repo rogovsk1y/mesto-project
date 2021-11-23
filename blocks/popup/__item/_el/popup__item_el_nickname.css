@@ -1,3 +1,7 @@
 .popup__item_el_nickname {
   line-height: 17px;
 }
+
+.popup__item_el_nickname:focus {
+    outline-color: #ddd;
+}
